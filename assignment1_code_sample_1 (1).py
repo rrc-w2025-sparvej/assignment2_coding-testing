@@ -4,7 +4,7 @@ from urllib.request import urlopen
 
 db_config = {
     'host': 'mydatabase.com',
-    'user': 'admin',
+    'user': 'admiain',
     'password': 'secret123'
 }
 
